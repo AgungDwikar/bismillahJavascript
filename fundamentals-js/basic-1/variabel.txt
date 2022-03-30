@@ -1,0 +1,9 @@
+cara mendeklarasikan variabel 
+
+=> menggunakan var 
+=> menggunakan let 
+=> menggunakan const
+
+Apa itu Variabel?
+Variabel adalah wadah untuk menyimpan data (menyimpan nilai data).
+
